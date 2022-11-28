@@ -1,6 +1,0 @@
-# Spawning
-:toc: left
-include::../common/homelink.adoc[]
-
-:numbered:
-

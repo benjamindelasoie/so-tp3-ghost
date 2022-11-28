@@ -1,2 +1,0 @@
-
-Requires <<threads#SecurityLevels,G_SECURITY_LEVEL_APPLICATION>>.
